@@ -1,0 +1,20 @@
+Como conectar mis proyectos locales con github
+
+Pasos
+
+1. Crear repositorio en git hub
+2. Crear init en carpeta del proyecto
+3. Agregar el remoto del repositorio de github
+4. Hacer git add .
+5. Hacer git commit
+6. Hacer git push origin master
+
+
+
+Observaciones:
+
+Verificar tipeo en todo momento al agregar los nombres y las descripciones de todas las carpetas.
+
+Verificar ubicación de las carpetas al momento de hacer el init
+
+Verificar al hacer el push que no haya errores y que diga de master a master.
